@@ -1,3 +1,3 @@
-# Aceleradev DataScience Online
+# Aceleradev DataScience Online - Material
 
-Entre na semana do curso que deseja para visualizar os arquivos. 
+Aqui encontram-se os materiais de apoio para cada semana do AceleraDev - Data Science 06/2020.
